@@ -1,0 +1,1434 @@
+{
+  "entry": [
+    {
+      "trnCode": "60J",
+      "en": "60J RRSP Transfer",
+      "fr": "Transfert REER 60J"
+    },
+    {
+      "trnCode": "60L",
+      "en": "60L RRSP Transfer",
+      "fr": "Transfert REER 60L"
+    },
+    {
+      "trnCode": "6JX",
+      "en": "Spousal 60J Transfer",
+      "fr": "Transfert REER de conjoint 60J "
+    },
+    {
+      "trnCode": "AAS",
+      "en": "Asset Allocation Service",
+      "fr": "Service de répartition de l'actif"
+    },
+    {
+      "trnCode": "ACN",
+      "en": "Assisted Contribution",
+      "fr": "Cotisation avec aide fiscale"
+    },
+    {
+      "trnCode": "ACR",
+      "en": "Accrued Interest",
+      "fr": "Intérêts courus"
+    },
+    {
+      "trnCode": "ADJ",
+      "en": "Adjustment",
+      "fr": "Rajustement"
+    },
+    {
+      "trnCode": "ASN",
+      "en": "Assign",
+      "fr": "Mise en gage"
+    },
+    {
+      "trnCode": "ATI",
+      "en": "Account Transfer In",
+      "fr": "Transfert de compte - Entrée"
+    },
+    {
+      "trnCode": "ATO",
+      "en": "Account Transfer Out",
+      "fr": "Transfert de compte - Sortie"
+    },
+    {
+      "trnCode": "AVG",
+      "en": "Average cost transaction",
+      "fr": "Opération liée au coût moyen"
+    },
+    {
+      "trnCode": "BKN",
+      "en": "Bankrupt",
+      "fr": "Faillite"
+    },
+    {
+      "trnCode": "BKT",
+      "en": "Bankrupt",
+      "fr": "Faillite"
+    },
+    {
+      "trnCode": "BUY",
+      "en": "Purchase",
+      "fr": "Achat"
+    },
+    {
+      "trnCode": "BVA",
+      "en": "Book Value Adjustment",
+      "fr": "Actif Net Réévalué "
+    },
+    {
+      "trnCode": "C15",
+      "en": "Premier Investment Program Fee Payment",
+      "fr": "Honoraires Programme de placement Premier"
+    },
+    {
+      "trnCode": "C26",
+      "en": "Advisor Managed Program Fee Payment",
+      "fr": "Paiement des honoraires - comptes gérés par les représentants"
+    },
+    {
+      "trnCode": "CAI",
+      "en": "Compound Interest",
+      "fr": "Intérêts composés"
+    },
+    {
+      "trnCode": "CBF",
+      "en": "Cash Balance Forward",
+      "fr": "Solde d’espèces reporté"
+    },
+    {
+      "trnCode": "CHN",
+      "en": "Security Exchange",
+      "fr": "Échange de titre"
+    },
+    {
+      "trnCode": "CIL",
+      "en": "Cash In Lieu",
+      "fr": "Contre dépôt en espèces"
+    },
+    {
+      "trnCode": "CK",
+      "en": "Cheque Issued",
+      "fr": "Chèque émis"
+    },
+    {
+      "trnCode": "CM",
+      "en": "Credit Memo",
+      "fr": "Note de crédit"
+    },
+    {
+      "trnCode": "CN",
+      "en": "RRSP Contribution",
+      "fr": "Cotisation REER"
+    },
+    {
+      "trnCode": "CNV",
+      "en": "Balance Forward",
+      "fr": "Solde reporté"
+    },
+    {
+      "trnCode": "CR",
+      "en": "Cash Received",
+      "fr": "Espèces reçues"
+    },
+    {
+      "trnCode": "CRB",
+      "en": "Commission Reimbursement",
+      "fr": "Remboursement de commission"
+    },
+    {
+      "trnCode": "CSH",
+      "en": "Cash Distribution",
+      "fr": "Distribution en espèces"
+    },
+    {
+      "trnCode": "DDI",
+      "en": "DDI",
+      "fr": "DDI"
+    },
+    {
+      "trnCode": "DDS",
+      "en": "Employee RRSP Contribution",
+      "fr": "Cotisation REER salariale"
+    },
+    {
+      "trnCode": "DEL",
+      "en": "Delivered",
+      "fr": "Livré"
+    },
+    {
+      "trnCode": "DFN",
+      "en": "Defunct",
+      "fr": "Liquidé"
+    },
+    {
+      "trnCode": "DFT",
+      "en": "Defunct",
+      "fr": "Liquidé"
+    },
+    {
+      "trnCode": "DM",
+      "en": "Debit Memo",
+      "fr": "Note de débit"
+    },
+    {
+      "trnCode": "DR6",
+      "en": "Trust Dividend Re-Investment",
+      "fr": "Réinvestissement du dividende "
+    },
+    {
+      "trnCode": "DR8",
+      "en": "Trust Unit Dividend Re-investment",
+      "fr": "Réinvestissement de dividendes de parts de fiducie"
+    },
+    {
+      "trnCode": "DRC",
+      "en": "CDN Dividend Re-investment",
+      "fr": "Réinvestissement de dividendes can"
+    },
+    {
+      "trnCode": "DRG",
+      "en": "Plan Deregistration",
+      "fr": "Désenregistrement du régime"
+    },
+    {
+      "trnCode": "DRI",
+      "en": "Interest Re-investment",
+      "fr": "Réinvestissement d'intérêts"
+    },
+    {
+      "trnCode": "DRP",
+      "en": "Dividend Re-investment Plan",
+      "fr": "Plan de réinvestissement de dividendes "
+    },
+    {
+      "trnCode": "DRU",
+      "en": "US Dividend Re-investment",
+      "fr": "Plan de réinvestissement de dividendes amér."
+    },
+    {
+      "trnCode": "DTI",
+      "en": "Dealer Transfer In",
+      "fr": "Courtier – Transfert entrant"
+    },
+    {
+      "trnCode": "DTO",
+      "en": "Dealer Transfer Out",
+      "fr": "Courtier – Transfert sortant"
+    },
+    {
+      "trnCode": "DV5",
+      "en": "Foreign Income",
+      "fr": "Revenu étranger"
+    },
+    {
+      "trnCode": "DV6",
+      "en": "Trust Dividend",
+      "fr": "Dividende de fiducie"
+    },
+    {
+      "trnCode": "DV7",
+      "en": "CDN Royalty Payment",
+      "fr": "Versement de redevances en $ CA"
+    },
+    {
+      "trnCode": "DV8",
+      "en": "Dividend",
+      "fr": "Dividende "
+    },
+    {
+      "trnCode": "DV9",
+      "en": "Capital Gain Dividend",
+      "fr": "Dividende (gains en capital)"
+    },
+    {
+      "trnCode": "DVC",
+      "en": "CDN Cash Dividend",
+      "fr": "Dividende en espèces ($ CA)"
+    },
+    {
+      "trnCode": "DVI",
+      "en": "Reinvested Interest",
+      "fr": "Intérêts réinvestis"
+    },
+    {
+      "trnCode": "DVL",
+      "en": "US LT Capital Gain Dividend",
+      "fr": "Dividende (gains en capital LT) - $ US"
+    },
+    {
+      "trnCode": "DVO",
+      "en": "Dividend",
+      "fr": "Dividende "
+    },
+    {
+      "trnCode": "DVR",
+      "en": "Reinvested Dividend",
+      "fr": "Dividende réinvesti"
+    },
+    {
+      "trnCode": "DVU",
+      "en": "US Cash Dividend",
+      "fr": "Dividende en espèces ($ US)"
+    },
+    {
+      "trnCode": "ECH",
+      "en": "Security Exchange",
+      "fr": "Échange de titre"
+    },
+    {
+      "trnCode": "ECN",
+      "en": "Employer RRSP Contribution",
+      "fr": "Cotisation REER patronale"
+    },
+    {
+      "trnCode": "EFT",
+      "en": "Electronic Funds Transfer",
+      "fr": "Transfert électronique de fonds"
+    },
+    {
+      "trnCode": "EPT",
+      "en": "Electronic Phone Transfer",
+      "fr": "Transfert de fonds par téléphone "
+    },
+    {
+      "trnCode": "ESC",
+      "en": "Employer Spousal Contribution",
+      "fr": "Cotisation salariale au profit du conjoint"
+    },
+    {
+      "trnCode": "EXC",
+      "en": "Foreign Exchange CDN Dividend",
+      "fr": "Dividende de devise en $ CA"
+    },
+    {
+      "trnCode": "EXE",
+      "en": "Exercise",
+      "fr": "Exercer"
+    },
+    {
+      "trnCode": "EXH",
+      "en": "Foreign Exchange  ",
+      "fr": "Devises étrangères"
+    },
+    {
+      "trnCode": "EXI",
+      "en": "Foreign Exchange Interest",
+      "fr": "Intérêts sur devises"
+    },
+    {
+      "trnCode": "EXN",
+      "en": "Exercise",
+      "fr": "Exercer"
+    },
+    {
+      "trnCode": "EXP",
+      "en": "Expiry",
+      "fr": "Expiration"
+    },
+    {
+      "trnCode": "EXU",
+      "en": "Foreign Exchange US Dividend",
+      "fr": "Dividende de devise en $ US"
+    },
+    {
+      "trnCode": "F/R",
+      "en": "Fully Registered",
+      "fr": "Entièrement enregistré "
+    },
+    {
+      "trnCode": "F10",
+      "en": "NSF Fee",
+      "fr": "Frais de chèque sans provision"
+    },
+    {
+      "trnCode": "F11",
+      "en": "Cheque Stop Payment Fee",
+      "fr": "Frais d'opposition "
+    },
+    {
+      "trnCode": "F12",
+      "en": "Wire Transfer Fee",
+      "fr": "Frais de transfert câblé"
+    },
+    {
+      "trnCode": "F13",
+      "en": "DAP Fee",
+      "fr": "Frais de livraison sur paiement"
+    },
+    {
+      "trnCode": "F14",
+      "en": "Manual Mutual Fund Fee",
+      "fr": "Frais d'opération manuelle sur fonds commun"
+    },
+    {
+      "trnCode": "F15",
+      "en": "Premier Investment Program Fee",
+      "fr": "Frais au titre du programme de placement Premier"
+    },
+    {
+      "trnCode": "F16",
+      "en": "Client Cheque Request Fee ",
+      "fr": "Frais pour demande de chèque client"
+    },
+    {
+      "trnCode": "F17",
+      "en": "Rebate Processing Fee",
+      "fr": "Rabais - Frais de traitement "
+    },
+    {
+      "trnCode": "F18",
+      "en": "Masters Program Fee",
+      "fr": "Frais au titre du Programme Masters"
+    },
+    {
+      "trnCode": "F19",
+      "en": "Annual Administration Fee",
+      "fr": "Frais d'administration annuels"
+    },
+    {
+      "trnCode": "F20",
+      "en": "Partial Deregistration Fee",
+      "fr": "Frais de désenreg. partiel "
+    },
+    {
+      "trnCode": "F21",
+      "en": "GIC Processing Fee",
+      "fr": "Frais de traitement de CPG"
+    },
+    {
+      "trnCode": "F22",
+      "en": "SME Growth Stock Plan Fee",
+      "fr": "Frais au titre du Régime Actions-croissance PME"
+    },
+    {
+      "trnCode": "F23",
+      "en": "Estate Settlement Fee",
+      "fr": "Frais de règlement de succession "
+    },
+    {
+      "trnCode": "F24",
+      "en": "Research for Records",
+      "fr": "Recherche de dossier"
+    },
+    {
+      "trnCode": "F25",
+      "en": "Restricted Security Fee",
+      "fr": "Frais pour titres temporairement incessibles"
+    },
+    {
+      "trnCode": "F26",
+      "en": "Advisor Managed Program Fee ",
+      "fr": "Frais au titre du programme de comptes gérés par les représentants"
+    },
+    {
+      "trnCode": "FCB",
+      "en": "Fund Co. Buy Adjustment",
+      "fr": "Rajustement d'achat de la société de fonds"
+    },
+    {
+      "trnCode": "FCP",
+      "en": "Client Fee Payment",
+      "fr": "Paiement de frais client"
+    },
+    {
+      "trnCode": "FCS",
+      "en": "Fund Co. Sell Adjustment",
+      "fr": "Rajustement de vente de la société de fonds"
+    },
+    {
+      "trnCode": "FE1",
+      "en": "Full Deregistration",
+      "fr": "Désenregistrement au complet"
+    },
+    {
+      "trnCode": "FE2",
+      "en": "SWAP Fee",
+      "fr": "Frais de SWAP"
+    },
+    {
+      "trnCode": "FE3",
+      "en": "CCPC Shares Fee",
+      "fr": "Frais d'actions SPCC"
+    },
+    {
+      "trnCode": "FE4",
+      "en": "Partial Account Transfer Fee",
+      "fr": "Frais de transfert partiel de compte"
+    },
+    {
+      "trnCode": "FE5",
+      "en": "Full Account Transfer Fee",
+      "fr": "Frais de transfert intégral de compte"
+    },
+    {
+      "trnCode": "FE6",
+      "en": "Account Closing Fee",
+      "fr": "Frais de fermeture de compte"
+    },
+    {
+      "trnCode": "FE7",
+      "en": "Certificate Registration Fee",
+      "fr": "Frais d'enregistrement de certificat"
+    },
+    {
+      "trnCode": "FE8",
+      "en": "Rush Transaction Fee",
+      "fr": "Frais d'opération urgente"
+    },
+    {
+      "trnCode": "FE9",
+      "en": "Certificate Re-Reg Fee",
+      "fr": "Frais de réenregistrement de certificat"
+    },
+    {
+      "trnCode": "FEE",
+      "en": "Management Fees",
+      "fr": "Frais de gestion"
+    },
+    {
+      "trnCode": "FIN",
+      "en": "Fund Merger - In",
+      "fr": "Fusion de Fonds - Entrée"
+    },
+    {
+      "trnCode": "FMI",
+      "en": "Fund Merger - In",
+      "fr": "Fusion de Fonds - Entrée"
+    },
+    {
+      "trnCode": "FMO",
+      "en": "Fund Merger - Out ",
+      "fr": "Fusion de Fonds - Sortie"
+    },
+    {
+      "trnCode": "FON",
+      "en": "Fund Merger - Out ",
+      "fr": "Fusion de Fonds - Sortie"
+    },
+    {
+      "trnCode": "FTX",
+      "en": "RRSP Excess Foreign Tax",
+      "fr": "Impôt sur le contenu étranger excédentaire de REER"
+    },
+    {
+      "trnCode": "FXI",
+      "en": "Foreign EX Income/Loss",
+      "fr": "Revenu/perte sur devises"
+    },
+    {
+      "trnCode": "GD",
+      "en": "Generic Debit",
+      "fr": "Débit"
+    },
+    {
+      "trnCode": "GC",
+      "en": "Generic Credit",
+      "fr": "Crédit"
+    },
+    {
+      "trnCode": "GRE",
+      "en": "Grant Payment",
+      "fr": "Versement de subvention"
+    },
+    {
+      "trnCode": "GST",
+      "en": "GST",
+      "fr": "TPS"
+    },
+    {
+      "trnCode": "HBP",
+      "en": "RRSP Home Buyers' Plan",
+      "fr": "Régime d'accession à la propriété"
+    },
+    {
+      "trnCode": "HBR",
+      "en": "Home Buyers' Repayment",
+      "fr": "RAP - Remboursement"
+    },
+    {
+      "trnCode": "HBW",
+      "en": "Home Buyers' Withdrawal",
+      "fr": "RAP - Retrait"
+    },
+    {
+      "trnCode": "HST",
+      "en": "HST",
+      "fr": "TVH"
+    },
+    {
+      "trnCode": "HUP",
+      "en": "Non Official Holdings Transfer",
+      "fr": "Transfert de titres non officiels"
+    },
+    {
+      "trnCode": "HWD",
+      "en": "Hardship Withdrawal",
+      "fr": "Retrait d'urgence"
+    },
+    {
+      "trnCode": "IBM",
+      "en": "Interbox Move",
+      "fr": "Mouvement entre comptes"
+    },
+    {
+      "trnCode": "ICA",
+      "en": "Cost Adjustment",
+      "fr": "Rajustement de coût"
+    },
+    {
+      "trnCode": "IMM",
+      "en": "Inter Member Move",
+      "fr": "Mouvement entre membres"
+    },
+    {
+      "trnCode": "INT",
+      "en": "Interest",
+      "fr": "Intérêts "
+    },
+    {
+      "trnCode": "IPI",
+      "en": "Inventory Int/Prin Transfer",
+      "fr": "Transfert int./cap. d'inventaire"
+    },
+    {
+      "trnCode": "ITF",
+      "en": "Inter Account Transfer",
+      "fr": "Transfert entre comptes"
+    },
+    {
+      "trnCode": "JNL",
+      "en": "Adjustment",
+      "fr": "Rajustement"
+    },
+    {
+      "trnCode": "JNN",
+      "en": "Adjustment",
+      "fr": "Rajustement"
+    },
+    {
+      "trnCode": "LFP",
+      "en": "LIF Payment",
+      "fr": "Versement FRV"
+    },
+    {
+      "trnCode": "LFX",
+      "en": "Excess LIF Payment",
+      "fr": "Versement FRV excédentaire "
+    },
+    {
+      "trnCode": "LIQ",
+      "en": "Liquidation",
+      "fr": "Liquidation"
+    },
+    {
+      "trnCode": "LLP",
+      "en": "Lifelong Learning Plan Withdrawal",
+      "fr": "Régime d'encouragement à l'éducation permanente"
+    },
+    {
+      "trnCode": "LQN",
+      "en": "Liquidation",
+      "fr": "Liquidation"
+    },
+    {
+      "trnCode": "LRP",
+      "en": "LRIF Payment",
+      "fr": "Versement FRRI"
+    },
+    {
+      "trnCode": "LRX",
+      "en": "Excess LRIF Payment",
+      "fr": "Versement FRRI excédentaire "
+    },
+    {
+      "trnCode": "MAT",
+      "en": "Matured",
+      "fr": "Échu"
+    },
+    {
+      "trnCode": "MBD",
+      "en": "Marriage Breakdown Deregistration",
+      "fr": "Désenregistrement suite à la rupture du mariage"
+    },
+    {
+      "trnCode": "MBR",
+      "en": "Marriage Breakdown ",
+      "fr": "Rupture du mariage"
+    },
+    {
+      "trnCode": "MBI",
+      "en": "Marriage Breakdown - In",
+      "fr": "Rupture du mariage - Entrée"
+    },
+    {
+      "trnCode": "MCH",
+      "en": "Mandatory Change",
+      "fr": "Changement obligatoire"
+    },
+    {
+      "trnCode": "MCN",
+      "en": "Mandatory Change",
+      "fr": "Changement obligatoire"
+    },
+    {
+      "trnCode": "MFA",
+      "en": "Management Fee Adjustment",
+      "fr": "Rajustement des frais de gestion"
+    },
+    {
+      "trnCode": "MFR",
+      "en": "Mutual Fund Rebate",
+      "fr": "Rabais fonds de placement"
+    },
+    {
+      "trnCode": "MIN",
+      "en": "Monthly Interest",
+      "fr": "Intérêts mensuels"
+    },
+    {
+      "trnCode": "ND",
+      "en": "Notional Distribution",
+      "fr": "Distribution théorique"
+    },
+    {
+      "trnCode": "NDV",
+      "en": "Notional Distribution",
+      "fr": "Distribution théorique"
+    },
+    {
+      "trnCode": "NP1",
+      "en": "IRS Withholding Pool 1",
+      "fr": "Portefeuille 1 - Retenue d'impôt IRS"
+    },
+    {
+      "trnCode": "NP2",
+      "en": "IRS Withholding Pool 2",
+      "fr": "Portefeuille 2 - Retenue d'impôt IRS"
+    },
+    {
+      "trnCode": "NP3",
+      "en": "IRS Withholding Pool 3",
+      "fr": "Portefeuille 3 - Retenue d'impôt IRS"
+    },
+    {
+      "trnCode": "NP4",
+      "en": "IRS Withholding Pool 4",
+      "fr": "Portefeuille 4 - Retenue d'impôt IRS"
+    },
+    {
+      "trnCode": "NP5",
+      "en": "IRS Withholding Pool 5",
+      "fr": "Portefeuille 5 - Retenue d'impôt IRS"
+    },
+    {
+      "trnCode": "NP7",
+      "en": "IRS Withholding Pool 7",
+      "fr": "Portefeuille 7 - Retenue d'impôt IRS"
+    },
+    {
+      "trnCode": "NRC",
+      "en": "CDN Non Resident Tax",
+      "fr": "Impôt canadien des non-résidents"
+    },
+    {
+      "trnCode": "NRU",
+      "en": "Non Resident Tax",
+      "fr": "Impôt des non-résidents "
+    },
+    {
+      "trnCode": "OBY",
+      "en": "Purchase",
+      "fr": "Achat"
+    },
+    {
+      "trnCode": "ODP",
+      "en": "Fund Company Cash Div Disbursement",
+      "fr": "Paiement de dividende en espèces du fonds commun de placement"
+    },
+    {
+      "trnCode": "ODV",
+      "en": "Fund Company Cash Dividend",
+      "fr": "Dividende en espèces du fonds commun de placement"
+    },
+    {
+      "trnCode": "OFN",
+      "en": "Offer",
+      "fr": "Offre"
+    },
+    {
+      "trnCode": "OFR",
+      "en": "Offer",
+      "fr": "Offre"
+    },
+    {
+      "trnCode": "OSL",
+      "en": "Redemption",
+      "fr": "Rachat"
+    },
+    {
+      "trnCode": "PA",
+      "en": "Portfolio Adjustment",
+      "fr": "Rajustement de portefeuille"
+    },
+    {
+      "trnCode": "PAC",
+      "en": "Pre-Authorized Purchase",
+      "fr": "Achat préautorisé"
+    },
+    {
+      "trnCode": "PAP",
+      "en": "Personally Approved Payment",
+      "fr": "Paiement autorisé personnellement"
+    },
+    {
+      "trnCode": "PRI",
+      "en": "Principal Reduction",
+      "fr": "Réduction du capital"
+    },
+    {
+      "trnCode": "PRN",
+      "en": "Payout Principal",
+      "fr": "Remboursement du capital"
+    },
+    {
+      "trnCode": "PST",
+      "en": "PST",
+      "fr": "TVP"
+    },
+    {
+      "trnCode": "QST",
+      "en": "QST",
+      "fr": "TVQ"
+    },
+    {
+      "trnCode": "QWT",
+      "en": "Quebec Withholding Tax",
+      "fr": "Retenue d'impôt du Québec"
+    },
+    {
+      "trnCode": "RD3",
+      "en": "ADR Fee",
+      "fr": "Frais d' ARD"
+    },
+    {
+      "trnCode": "RD4",
+      "en": "1994 Admin Fee",
+      "fr": "Frais d'admin. 1994"
+    },
+    {
+      "trnCode": "RD5",
+      "en": "1995 Admin Fee",
+      "fr": "Frais d'admin. 1995"
+    },
+    {
+      "trnCode": "RD6",
+      "en": "1996 Admin Fee",
+      "fr": "Frais d'admin. 1996"
+    },
+    {
+      "trnCode": "RD7",
+      "en": "1997 Admin Fee",
+      "fr": "Frais d'admin. 1997"
+    },
+    {
+      "trnCode": "RD8",
+      "en": "1998 Admin Fee",
+      "fr": "Frais d'admin. 1998"
+    },
+    {
+      "trnCode": "RD9",
+      "en": "2000 Admin Fee",
+      "fr": "Frais d'admin. 2000"
+    },
+    {
+      "trnCode": "RDV",
+      "en": "Reinvested Dividend",
+      "fr": "Dividende réinvesti"
+    },
+    {
+      "trnCode": "REB",
+      "en": "Rebate",
+      "fr": "Rabais"
+    },
+    {
+      "trnCode": "REC",
+      "en": "Received",
+      "fr": "Reçu"
+    },
+    {
+      "trnCode": "RED",
+      "en": "Redemption",
+      "fr": "Rachat"
+    },
+    {
+      "trnCode": "REF",
+      "en": "Refund of Overcontribution",
+      "fr": "Remboursement de cotisation excédentaire"
+    },
+    {
+      "trnCode": "RF3",
+      "en": "1993 Deductible Fee",
+      "fr": "Frais déductibles 1993"
+    },
+    {
+      "trnCode": "RF4",
+      "en": "1994 Deductible Fee",
+      "fr": "Frais déductibles 1994"
+    },
+    {
+      "trnCode": "RF5",
+      "en": "1995 Deductible Fee",
+      "fr": "Frais déductibles 1995"
+    },
+    {
+      "trnCode": "RF6",
+      "en": "1996 Deductible Fee",
+      "fr": "Frais déductibles 1996"
+    },
+    {
+      "trnCode": "RFM",
+      "en": "Deductible Management Fee",
+      "fr": "Frais de gestion déductibles"
+    },
+    {
+      "trnCode": "RFP",
+      "en": "RRIF Payment",
+      "fr": "Versement FERR"
+    },
+    {
+      "trnCode": "RFX",
+      "en": "RRIF Excess Payment",
+      "fr": "Versement FERR excédentaire"
+    },
+    {
+      "trnCode": "RIB",
+      "en": "Reimbursement",
+      "fr": "Remboursement"
+    },
+    {
+      "trnCode": "RIL",
+      "en": "RRIF Withdrawal Limit",
+      "fr": "Plafond de retrait FERR"
+    },
+    {
+      "trnCode": "RIM",
+      "en": "RRIF Minimum Annual Payment",
+      "fr": "Versement FERR annuel minimum"
+    },
+    {
+      "trnCode": "RLI",
+      "en": "Rollover In",
+      "fr": "Roulement - Entrée"
+    },
+    {
+      "trnCode": "RLO",
+      "en": "Rollover Out",
+      "fr": "Roulement - Sortie"
+    },
+    {
+      "trnCode": "ROC",
+      "en": "Return of Capital",
+      "fr": "Remboursement de capital"
+    },
+    {
+      "trnCode": "ROL",
+      "en": "Rollover",
+      "fr": "Roulement"
+    },
+    {
+      "trnCode": "RTS",
+      "en": "Rights Issue",
+      "fr": "Émission de droits"
+    },
+    {
+      "trnCode": "RTX",
+      "en": "RRSP Tax Transfer For DER",
+      "fr": "Transfert d'impôt de désenregistrement de REER"
+    },
+    {
+      "trnCode": "SA",
+      "en": "System Adjustment",
+      "fr": "Rajustement informatique"
+    },
+    {
+      "trnCode": "SBN",
+      "en": "Substitution",
+      "fr": "Substitution"
+    },
+    {
+      "trnCode": "SCN",
+      "en": "Spousal RRSP Contribution",
+      "fr": "Cotisation REER de conjoint"
+    },
+    {
+      "trnCode": "SD9",
+      "en": "Capital Gains Stock Dividend",
+      "fr": "Dividende en actions (gains en capital)"
+    },
+    {
+      "trnCode": "SDC",
+      "en": "Money Value-SDV TXNS (CAD)",
+      "fr": "Divid. act. - Versement en espèces ($ CA)"
+    },
+    {
+      "trnCode": "SDS",
+      "en": "Spousal Employee RRSP Contribution",
+      "fr": "Cotisation REER salariale au profit du conjoint"
+    },
+    {
+      "trnCode": "SDU",
+      "en": "Money Value-SDV TXNS (USD)",
+      "fr": "Divid. act. - Versement en espèces ($ US)"
+    },
+    {
+      "trnCode": "SDV",
+      "en": "Stock Dividend",
+      "fr": "Dividende en actions"
+    },
+    {
+      "trnCode": "SEL",
+      "en": "Redemption",
+      "fr": "Rachat"
+    },
+    {
+      "trnCode": "SFK",
+      "en": "Safekeeping Transfer",
+      "fr": "Transfert de garde"
+    },
+    {
+      "trnCode": "SIM",
+      "en": "Switch In Maturity",
+      "fr": "Virement à l'échéance - Entrée"
+    },
+    {
+      "trnCode": "SKE",
+      "en": "Safekeeping Fee",
+      "fr": "Frais de garde"
+    },
+    {
+      "trnCode": "SOM",
+      "en": "Switch Out Maturity",
+      "fr": "Virement à l'échéance - Sortie"
+    },
+    {
+      "trnCode": "SPL",
+      "en": "Stock Split",
+      "fr": "Fractionnement d'actions"
+    },
+    {
+      "trnCode": "SPN",
+      "en": "Spin-Off",
+      "fr": "Scission"
+    },
+    {
+      "trnCode": "SUB",
+      "en": "Substitution",
+      "fr": "Substitution"
+    },
+    {
+      "trnCode": "SUS",
+      "en": "Share / unit splits",
+      "fr": "Fractionnement de titres"
+    },
+    {
+      "trnCode": "SUC",
+      "en": "Share / unit consolidations",
+      "fr": "Regroupement de titres"
+    },
+    {
+      "trnCode": "SWD",
+      "en": "Systematic Withdrawal",
+      "fr": "Retrait automatique"
+    },
+    {
+      "trnCode": "SWI",
+      "en": "Switch In",
+      "fr": "Virement - Entrée"
+    },
+    {
+      "trnCode": "SWN",
+      "en": "Switch Out",
+      "fr": "Virement - Sortie"
+    },
+    {
+      "trnCode": "SWO",
+      "en": "Switch Out",
+      "fr": "Virement - Sortie"
+    },
+    {
+      "trnCode": "SWP",
+      "en": "SWAP",
+      "fr": "SWAP"
+    },
+    {
+      "trnCode": "TCN",
+      "en": "TFSA Contribution",
+      "fr": "CELI Cotisation"
+    },
+    {
+      "trnCode": "TDV",
+      "en": "Reinvested Dividend",
+      "fr": "Dividende réinvesti"
+    },
+    {
+      "trnCode": "TIE",
+      "en": "Transfer In - External",
+      "fr": "Transfert externe - Entrée"
+    },
+    {
+      "trnCode": "TII",
+      "en": "Transfer In - Internal",
+      "fr": "Transfert interne - Entrée"
+    },
+    {
+      "trnCode": "TOE",
+      "en": "Transfer Out - External",
+      "fr": "Transfert externe - Sortie"
+    },
+    {
+      "trnCode": "TOI",
+      "en": "Transfer Out - Internal",
+      "fr": "Transfert interne - Sortie"
+    },
+    {
+      "trnCode": "TON",
+      "en": "Transfer Out - Internal",
+      "fr": "Transfert interne - Sortie"
+    },
+    {
+      "trnCode": "TWD",
+      "en": "TFSA Withdrawal",
+      "fr": "CELI Retrait"
+    },
+    {
+      "trnCode": "WD",
+      "en": "Withdrawal",
+      "fr": "Retrait"
+    },
+    {
+      "trnCode": "WFE",
+      "en": "RRSP Withdrawal Fee",
+      "fr": "Frais de retrait de REER"
+    },
+    {
+      "trnCode": "WHP",
+      "en": "Ineligible Investment Penalty",
+      "fr": "Pénalité pour placement non admissible"
+    },
+    {
+      "trnCode": "WHT",
+      "en": "Withholding Tax",
+      "fr": "Retenue d'impôt"
+    },
+    {
+      "trnCode": "WO",
+      "en": "Inventory Writeoff",
+      "fr": "Radiation d'inventaire"
+    },
+    {
+      "trnCode": "WTH",
+      "en": "Withholding Tax",
+      "fr": "Retenue d'impôt"
+    },
+    {
+      "trnCode": "WTS",
+      "en": "Warrants Issue",
+      "fr": "Émission de bons de souscription"
+    },
+    {
+      "trnCode": "WTX",
+      "en": "Tax On RRSP Withdrawal",
+      "fr": "Impôt sur retrait de REER"
+    },
+    {
+      "trnCode": "XBY",
+      "en": "Purchase Reversal",
+      "fr": "Contrepassation d'achat"
+    },
+    {
+      "trnCode": "XPN",
+      "en": "Expiry",
+      "fr": "Expiration"
+    },
+    {
+      "trnCode": "XPY",
+      "en": "Expiry",
+      "fr": "Expiration"
+    },
+    {
+      "trnCode": "XSL",
+      "en": "Redemption Reversal",
+      "fr": "Contrepassation de rachat"
+    },
+    {
+      "trnCode": "AIP",
+      "en": "ACCUMULATED INCOME PMNT",
+      "fr": "Paiement de revenu accumulé "
+    },
+    {
+      "trnCode": "CWD",
+      "en": "CONTRIBUTION WITHDRAWAL",
+      "fr": "Retrait de cotisations "
+    },
+    {
+      "trnCode": "EAP",
+      "en": "EDUCATION ASSISTANCE PMNT",
+      "fr": "Paiement d'aide aux études "
+    },
+    {
+      "trnCode": "GCA",
+      "en": "ADDITIONAL GRANT",
+      "fr": "Subvention additionnelle"
+    },
+    {
+      "trnCode": "GCC",
+      "en": "CANADA LEARNING BOND",
+      "fr": "Demande de Bon d’études canadien "
+    },
+    {
+      "trnCode": "GCF",
+      "en": "CLB FEE",
+      "fr": "Frais de BEC"
+    },
+    {
+      "trnCode": "GCN",
+      "en": "BASIC GRANT",
+      "fr": "Subvention de base"
+    },
+    {
+      "trnCode": "GCP",
+      "en": "P-GRANT",
+      "fr": "Subvention provinciale"
+    },
+    {
+      "trnCode": "GQA",
+      "en": "ADDITIONAL QESI",
+      "fr": "IQÉÉ additionnel"
+    },
+    {
+      "trnCode": "GQB",
+      "en": "BASIC QESI",
+      "fr": "IQÉÉ de base"
+    },
+    {
+      "trnCode": "GQI",
+      "en": "QESI INTEREST",
+      "fr": "Intérêt d'IQÉÉ"
+    },
+    {
+      "trnCode": "GRE",
+      "en": "GRANT REPAYMENT",
+      "fr": "Remboursement de subvention "
+    },
+    {
+      "trnCode": "PSE",
+      "en": "POST SECONDARY EDUCATION",
+      "fr": "Retrait pour études postsecondaires "
+    },
+    {
+      "trnCode": "RCN",
+      "en": "RESP CONTRIBUTION",
+      "fr": "Cotisation subventionnée "
+    },
+    {
+      "trnCode": "TER",
+      "en": "TERMINATION ADJUSTMENT",
+      "fr": "Rajustement au moment de la résiliation "
+    },
+    {
+      "trnCode": "UCN",
+      "en": "UNASSISTED CONTRIBUTION",
+      "fr": "Cotisation non subventionnée "
+    },
+    {
+      "trnCode": "ACJ",
+      "en": "ADJUST ASST CONT",
+      "fr": "Cotisation subventionnée rajustée "
+    },
+    {
+      "trnCode": "CLB",
+      "en": "CLB REQUEST",
+      "fr": "Demande de Bon d’études canadien"
+    },
+    {
+      "trnCode": "GCJ",
+      "en": "ADJUST GRANT",
+      "fr": "Subvention rajustée "
+    },
+    {
+      "trnCode": "PCG",
+      "en": "RESP PRIMARY CAREGIVER",
+      "fr": "Renseignements sur le responsable "
+    },
+    {
+      "trnCode": "PGR",
+      "en": "P-GRANT REQUEST",
+      "fr": "Demande de subvention provinciale "
+    },
+    {
+      "trnCode": "TOA",
+      "en": "TRANSFER OUT ASST CONT",
+      "fr": "Transfert sortant de cotisations subventionnées "
+    },
+    {
+      "trnCode": "TOG",
+      "en": "TRANSFER OUT GRANT",
+      "fr": "Transfert sortant d’une subvention "
+    },
+    {
+      "trnCode": "TOU",
+      "en": "TRANSFER OUT UNASST CONT",
+      "fr": "Transfert sortant de cotisations non subventionnées "
+    },
+    {
+      "trnCode": "TRA",
+      "en": "TRANSFER IN ASST CONT",
+      "fr": "Transfert entrant de cotisations subventionnées "
+    },
+    {
+      "trnCode": "TRG",
+      "en": "TRANSFER IN GRANT CONT ",
+      "fr": "Transfert entrant d’une subvention "
+    },
+    {
+      "trnCode": "TRI",
+      "en": "RESP ACCOUNT TRANSFER IN",
+      "fr": "Transfert entrant  - REEE"
+    },
+    {
+      "trnCode": "TRO",
+      "en": "RESP ACCOUNT TRANSFER OUT",
+      "fr": "Transfert sortant  - REEE"
+    },
+    {
+      "trnCode": "TRU",
+      "en": "TRANSFER IN UNASST CONT",
+      "fr": "Transfert entrant de cotisations non subventionnées "
+    },
+    {
+      "trnCode": "TYA",
+      "en": "TRANSFER IN ASSISTED YTD",
+      "fr": "Transfert entrant de cotisations subventionnées "
+    },
+    {
+      "trnCode": "TYU",
+      "en": "TRANSFER IN UNASST YTD",
+      "fr": "Transfert entrant de cotisations non subventionnées "
+    },
+    {
+      "trnCode": "UCJ",
+      "en": "ADJUST UNASST CONT",
+      "fr": "Cotisation non subventionnée rajustée "
+    },
+    {
+      "trnCode": "GCS",
+      "en": "P-Grant",
+      "fr": "Subvention provinciale"
+    },
+    {
+      "trnCode": "GCB",
+      "en": "P-Grant",
+      "fr": "Subvention provinciale"
+    },
+    {
+      "trnCode": "WAT",
+      "en": "AIP Withholding Tax",
+      "fr": "Retenues d’impôt PRA"
+    },
+    {
+      "trnCode": "QAT",
+      "en": "AIP Quebec Withholding Tax",
+      "fr": "Retenues d’impôt PRA du Québec"
+    },
+    {
+      "trnCode": "R10",
+      "en": "Reimbursement of cost recovery for non sufficient funds",
+      "fr": "Remboursement du recouvrement des coûts liés aux insuffisances de fonds"
+    },
+    {
+      "trnCode": "R12",
+      "en": "Reimbursement of cost for wire transfer processing",
+      "fr": "Remboursement des coûts de traitement de virements électroniques"
+    },
+    {
+      "trnCode": "R13",
+      "en": "Goodwill Reimbursement ",
+      "fr": "Remboursement en guise de bonne foi"
+    },
+    {
+      "trnCode": "R14",
+      "en": "Reimbursement of administration costs for the clearing and settlement of selected Mutual Funds",
+      "fr": "Remboursement des frais d’administration applicables à la compensation et au règlement d’opérations sur certains fonds de placement"
+    },
+    {
+      "trnCode": "R15",
+      "en": "Reimbursement of Premier Investment Program fee",
+      "fr": "Remboursement des honoraires du Programme de placement Premier "
+    },
+    {
+      "trnCode": "R18",
+      "en": "Reimbursement of Masters Private Account Program fee",
+      "fr": "Remboursement des frais du programme de Comptes privés Masters "
+    },
+    {
+      "trnCode": "R19 ",
+      "en": "Reimbursement of fee for the administration of registered accounts",
+      "fr": "Remboursement des frais d’administration d’un compte enregistré"
+    },
+    {
+      "trnCode": "R21",
+      "en": "Reimbursement of cost for special processing of GICs",
+      "fr": "Remboursement des coûts applicables au traitement spécial des CPG"
+    },
+    {
+      "trnCode": "R26 ",
+      "en": "Reimbursement of Advisor Managed Program fee",
+      "fr": "Remboursement des frais du Programme de représentants gestionnaires "
+    },
+    {
+      "trnCode": "RE1",
+      "en": "Reimbursement of account deregistration fee",
+      "fr": "Remboursement des frais de désenregistrement"
+    },
+    {
+      "trnCode": "RE3",
+      "en": "Reimbursement of fee for the setup and administration of private securities",
+      "fr": "Remboursement des frais d’établissement de compte et d’administration de titres de sociétés fermées"
+    },
+    {
+      "trnCode": "RE5 ",
+      "en": "Reimbursement of special processing fee for account transfers",
+      "fr": "Remboursement des frais de traitement spéciaux applicables au transfert de comptes "
+    },
+    {
+      "trnCode": "RE6 ",
+      "en": "Reimbursement of account closing fee",
+      "fr": "Remboursement des frais de compte inactif "
+    },
+    {
+      "trnCode": "RE7 ",
+      "en": "Reimbursement of cost recovery for the administration and custody of physical security certificates  ",
+      "fr": "Remboursement du recouvrement des coûts liés à l’administration et à la garde de certificats de titres papier "
+    },
+    {
+      "trnCode": "RMI",
+      "en": "Reimbursement of interest",
+      "fr": "Remboursement des intérêts"
+    },
+    {
+      "trnCode": "RTP",
+      "en": "Reimbursement of Third Party Payment",
+      "fr": "Remboursement du paiement à un tiers"
+    },
+    {
+      "trnCode": "RTC",
+      "en": "Reimbursement of Transaction Charges",
+      "fr": "Remboursement des frais d'opération "
+    },
+    {
+      "trnCode": "REB",
+      "en": "Commission rebate",
+      "fr": "Rabais sur commission"
+    }
+  ]
+}

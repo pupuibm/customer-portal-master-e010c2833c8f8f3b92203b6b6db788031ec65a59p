@@ -1,0 +1,14 @@
+{
+  "entry": [
+    {
+      "fundCode": "C",
+      "en": "CAD",
+      "fr": "CAD"
+    },
+    {
+      "fundCode": "U",
+      "en": "USD",
+      "fr": "USD"
+    }
+  ]
+}

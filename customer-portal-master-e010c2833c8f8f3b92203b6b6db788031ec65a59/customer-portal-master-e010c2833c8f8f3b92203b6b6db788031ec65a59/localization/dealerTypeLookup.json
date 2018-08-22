@@ -1,0 +1,22 @@
+{
+	"entry": [
+    {
+      "dealerCode": "7584",
+      "en": "Manulife Securities Investment Services Inc.",
+      "fr": "Placements Manuvie Services d’investissement inc",
+      "sort": 2
+    },
+    {
+      "dealerCode": "7585",
+      "en": "Manulife Securities Inc.",
+      "fr": "Placements Manuvie incorporée",
+      "sort": 1
+    },
+    {
+      "dealerCode": "3495",
+      "en": "Manulife Securities Insurance Inc.",
+      "fr": "Placements Manuvie Assurance incorporée",
+      "sort": 3
+    }
+	]
+}

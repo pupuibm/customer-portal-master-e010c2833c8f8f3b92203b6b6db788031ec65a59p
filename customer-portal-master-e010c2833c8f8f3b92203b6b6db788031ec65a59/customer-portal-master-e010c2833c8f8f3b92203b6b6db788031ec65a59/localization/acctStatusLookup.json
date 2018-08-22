@@ -1,0 +1,19 @@
+{
+  "entry": [
+    {
+      "acctStatus": "A",
+      "en": "Active",
+      "fr": ""
+    },
+    {
+      "acctStatus": "C",
+      "en": "Closed",
+      "fr": ""
+    },
+    {
+      "acctStatus": "D",
+      "en": "Deleted",
+      "fr": ""
+    }    
+  ]
+}

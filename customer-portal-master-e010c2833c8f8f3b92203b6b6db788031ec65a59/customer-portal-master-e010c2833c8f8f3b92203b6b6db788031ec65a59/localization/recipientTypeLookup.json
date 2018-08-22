@@ -1,0 +1,24 @@
+{
+  "entry": [
+    {
+      "recipientType": "1",
+      "en": "Individual"
+    },
+    {
+      "recipientType": "2",
+      "en": "Joint Account"
+    },
+    {
+      "recipientType": "3",
+      "en": "Corporation"
+    },
+    {
+      "recipientType": "4",
+      "en": "Association/Trust"
+    },
+    {
+      "recipientType": "5",
+      "en": "Gov't/International"
+    }
+  ]
+}

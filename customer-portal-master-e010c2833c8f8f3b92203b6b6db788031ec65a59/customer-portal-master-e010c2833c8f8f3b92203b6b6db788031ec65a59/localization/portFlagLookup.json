@@ -1,0 +1,50 @@
+{
+  "entry": [
+    {
+      "portFlag": "1B1",
+      "en": "Advisor Managed Program",
+      "fr": "Programme de représentants gestionnaires"
+    },
+    {
+      "portFlag": "1S1",
+      "en": "Advisor Managed Program",
+      "fr": "Programme de représentants gestionnaires"
+    },
+    {
+      "portFlag": "2S1",
+      "en": "Masters Private Account Program",
+      "fr": "Convention de compte privé Masters"
+    },
+    {
+      "portFlag": "P1F",
+      "en": "Premier Investment Program",
+      "fr": "Programme de placement Premier"
+    },
+    {
+      "portFlag": "P2A",
+      "en": "Premier Investment Program",
+      "fr": "Programme de placement Premier"
+    },
+    {
+      "portFlag": "P3D",
+      "en": "Premier Investment Program",
+      "fr": "Programme de placement Premier"
+    },
+    {
+      "portFlag": "G1F",
+      "en": "Goals Based Investing"
+    },
+    {
+      "portFlag": "G2A",
+      "en": "Goals Based Investing"
+    },
+    {
+      "portFlag": "G3F",
+      "en": "Goals Based Investing"
+    },
+    {
+      "portFlag": "G4E",
+      "en": "Goals Based Investing"
+    }
+  ]
+}

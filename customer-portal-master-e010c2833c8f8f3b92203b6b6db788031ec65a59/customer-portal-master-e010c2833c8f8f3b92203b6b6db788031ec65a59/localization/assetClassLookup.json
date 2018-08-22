@@ -1,0 +1,190 @@
+{
+  "entry": [
+    {
+      "assetClass": "",
+      "en": "Cash",
+      "fr": "Liquidités",
+      "sort": 1
+    },
+    {
+      "assetClass": "70",
+      "en": "Equities",
+      "fr": "Actions",
+      "sort": 4
+    },
+    {
+      "assetClass": "71",
+      "en": "Equities",
+      "fr": "Actions",
+      "sort": 4
+    },
+    {
+      "assetClass": "120",
+      "en": "Equities",
+      "fr": "Actions",
+      "sort": 4
+    },
+    {
+      "assetClass": "110",
+      "en": "Equities",
+      "fr": "Actions",
+      "sort": 4
+    },
+    {
+      "assetClass": "80",
+      "en": "Equities",
+      "fr": "Actions",
+      "sort": 4
+    },
+    {
+      "assetClass": "115",
+      "en": "Equities",
+      "fr": "Actions",
+      "sort": 4
+    },
+    {
+      "assetClass": "130",
+      "en": "Equities",
+      "fr": "Actions",
+      "sort": 4
+    },
+    {
+      "assetClass": "150",
+      "en": "Equities",
+      "fr": "Actions",
+      "sort": 4
+    },
+    {
+      "assetClass": "75",
+      "en": "Equities",
+      "fr": "Actions",
+      "sort": 4
+    },
+    {
+      "assetClass": "160",
+      "en": "Fixed Income",
+      "fr": "Titres à revenu fixe",
+      "sort": 2
+    },
+    {
+      "assetClass": "10",
+      "en": "Fixed Income",
+      "fr": "Titres à revenu fixe",
+      "sort": 2
+    },
+    {
+      "assetClass": "20",
+      "en": "Fixed Income",
+      "fr": "Titres à revenu fixe",
+      "sort": 2
+    },
+    {
+      "assetClass": "21",
+      "en": "Fixed Income",
+      "fr": "Titres à revenu fixe",
+      "sort": 2
+    },
+    {
+      "assetClass": "30",
+      "en": "Fixed Income",
+      "fr": "Titres à revenu fixe",
+      "sort": 2
+    },
+    {
+      "assetClass": "40",
+      "en": "Fixed Income",
+      "fr": "Titres à revenu fixe",
+      "sort": 2
+    },
+    {
+      "assetClass": "50",
+      "en": "Fixed Income",
+      "fr": "Titres à revenu fixe",
+      "sort": 2
+    },
+    {
+      "assetClass": "60",
+      "en": "Fixed Income",
+      "fr": "Titres à revenu fixe",
+      "sort": 2
+    },
+    {
+      "assetClass": "100",
+      "en": "Fixed Income",
+      "fr": "Titres à revenu fixe",
+      "sort": 2
+    },
+    {
+      "assetClass": "170",
+      "en": "Fixed Income",
+      "fr": "Titres à revenu fixe",
+      "sort": 2
+    },
+    {
+      "assetClass": "180",
+      "en": "Fixed Income",
+      "fr": "Titres à revenu fixe",
+      "sort": 2
+    },
+    {
+      "assetClass": "96",
+      "en": "Investment Funds",
+      "fr": "Fonds de placement",
+      "sort": 3
+    },
+    {
+      "assetClass": "73",
+      "en": "Investment Funds",
+      "fr": "Fonds de placement",
+      "sort": "3"
+    },
+    {
+      "assetClass": "90",
+      "en": "Investment Funds",
+      "fr": "Fonds de placement",
+      "sort": 3
+    },
+    {
+      "assetClass": "92",
+      "en": "Investment Funds",
+      "fr": "Fonds de placement",
+      "sort": 3
+    },
+    {
+      "assetClass": "95",
+      "en": "Investment Funds",
+      "fr": "Fonds de placement",
+      "sort": 3
+    },
+    {
+      "assetClass": "97",
+      "en": "Investment Funds",
+      "fr": "Fonds de placement",
+      "sort": 3
+    },
+    {
+      "assetClass": "98",
+      "en": "Investment Funds",
+      "fr": "Fonds de placement",
+      "sort": 3
+    },
+    {
+      "assetClass": "140",
+      "en": "Options",
+      "fr": "Options",
+      "sort": 5
+    },
+    {
+      "assetClass": "190",
+      "en": "Private Equities",
+      "fr": "Actions de sociétés fermées",
+      "sort": 6
+    },
+    {
+      "assetClass": "91",
+      "en": "Segregated Funds",
+      "fr": "Fonds distincts",
+      "sort": 7
+    }
+  ]
+}

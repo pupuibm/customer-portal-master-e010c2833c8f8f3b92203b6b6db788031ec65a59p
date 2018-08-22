@@ -1,0 +1,23 @@
+{
+  "name": "customer-portal",
+  "version": "1.0.0",
+  "description": "Customer Portal APIs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "mocha"
+  },
+  "engines": {
+    "node": "8.0.0",
+    "npm": "4.2.0"
+  },
+  "author": "Shandon Miller",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.2",
+    "mli-dataphile": "file:.\\mli_dependencies\\mli-dataphile-1.0.0.tgz",
+    "mli-util": "file:.\\mli_dependencies\\mli-util-1.0.0.tgz",
+    "mli-logging": "file:.\\mli_dependencies\\mli-logging-1.0.0.tgz",
+    "mli-api-security": "file:.\\mli_dependencies\\mli-api-security-1.0.0.tgz"
+  }
+}

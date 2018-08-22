@@ -1,0 +1,142 @@
+{
+  "entry": [
+    {
+      "acctType": "0",
+      "acctSub": "",
+      "en": "Non-registered",
+      "fr": "compte non enregistré"
+    },
+    {
+      "acctType": "1",
+      "acctSub": "",
+      "en": "Non-registered",
+      "fr": "compte non enregistré"
+    },
+    {
+      "acctType": "2",
+      "acctSub": "",
+      "en": "Margin long",
+      "fr": "compte sur marge en compte"
+    },
+    {
+      "acctType": "3",
+      "acctSub": "",
+      "en": "Margin Short",
+      "fr": "compte sur marge à découvert"
+    },
+    {
+      "acctType": "0",
+      "acctSub": "R",
+      "en": "RRSP",
+      "fr": "REER"
+    },
+    {
+      "acctType": "0",
+      "acctSub": "S",
+      "en": "Spousal RRSP",
+      "fr": "REER de conjoint"
+    },
+    {
+      "acctType": "0",
+      "acctSub": "G",
+      "en": "Group RRSP",
+      "fr": "REER collectif"
+    },
+    {
+      "acctType": "0",
+      "acctSub": "H",
+      "en": "Spousal group RRSP",
+      "fr": "REER collectif de conjoint"
+    },
+    {
+      "acctType": "0",
+      "acctSub": "I",
+      "en": "PRIF",
+      "fr": "FRRP"
+    },
+    {
+      "acctType": "0",
+      "acctSub": "P",
+      "en": "DPSP",
+      "fr": "RPDB"
+    },
+    {
+      "acctType": "0",
+      "acctSub": "Q",
+      "en": "TFSA",
+      "fr": "CELI"
+    },
+    {
+      "acctType": "0",
+      "acctSub": "T",
+      "en": "RRIF",
+      "fr": "FERR"
+    },
+    {
+      "acctType": "0",
+      "acctSub": "U",
+      "en": "Spousal RRIF",
+      "fr": "FERR de conjoint"
+    },
+    {
+      "acctType": "0",
+      "acctSub": "K",
+      "en": "RESP Individual",
+      "fr": "REEE individuel"
+    },
+    {
+      "acctType": "0",
+      "acctSub": "M",
+      "en": "RESP Family",
+      "fr": "REEE familial"
+    },
+    {
+      "acctType": "0",
+      "acctSub": "J",
+      "en": "LIF",
+      "fr": "FRV"
+    },
+    {
+      "acctType": "0",
+      "acctSub": "A",
+      "en": "RLIF",
+      "fr": "FRVR"
+    },
+    {
+      "acctType": "0",
+      "acctSub": "V",
+      "en": "LRIF",
+      "fr": "FRRI"
+    },
+    {
+      "acctType": "0",
+      "acctSub": "L",
+      "en": "LRSP/LIRA",
+      "fr": "REER immobilisé/CRI"
+    },
+    {
+      "acctType": "0",
+      "acctSub": "C",
+      "en": "RLSP",
+      "fr": "REIR"
+    },
+    {
+      "acctType": "0",
+      "acctSub": "Y",
+      "en": "RRIF",
+      "fr": "FERR"
+    },
+    {
+      "acctType": "4",
+      "acctSub": "N",
+      "en": "Individual Pension Plan",
+      "fr": "régime de retraite individuel"
+    },
+    {
+      "acctType": "4",
+      "acctSub": "D",
+      "en": "RDSP",
+      "fr": "REEI"
+    }
+  ]
+}
